@@ -15,4 +15,4 @@ def get_imagenet_path():
     return path
 
 Download Robust ResNet50
-Download the weights from here into utils and unzip the model.
+Download the weights from [here](https://drive.google.com/file/d/169fhxn5X2_1-5vWTepkKJZRMdr8z4b9p/view) into utils and unzip the model.
